@@ -8,6 +8,11 @@ This git repo is just to demonstrate one of the ways - known as RAG (Retrieval A
 
 Please Note - It's a RAG (Retrieval Augmented Generation) prototype, you can build this use case by solely relying on the LLM such as based on Open AI LLM APIs. Check the other repo - [AI Assisted Q&A prototype](https://github.com/kuldeeparyadotcom/ai_assisted_qna_prototype) - that demonstrates how to achieve it in non-RAG way. In fact, in many cases that may produce way better results. Be mindful about pros and cons of both approaches.
 
+# Blog
+Check out Blog for pros and cons of both approaches - RAG vs LLM.
+
+https://medium.com/@kuldeeparyadotcom/ai-powered-question-answering-exploring-two-approaches-llm-vs-rag-fe92114b305b
+
 # How to build and run this code
 
 ### Step 1 - Clone the repo. Enter your OpenAI API key in .env file.
